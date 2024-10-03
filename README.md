@@ -1,5 +1,4 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
+#README - citation link
 
 cff-version: 1.2.0
 title: Notes for CCT training 2024
